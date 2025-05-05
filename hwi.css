@@ -1,4 +1,4 @@
-@media (-moz-bool-pref: "zen.workspaces.show-workspace-indicator") {
+@media (-moz-bool-pref: "zen.workspaces.hide-workspace-indicator") {
   #tabbrowser-tabs {
     margin-top: -45px !important;
   }
