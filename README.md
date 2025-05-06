@@ -8,3 +8,8 @@ Hide Workspace Indicator for Zen Browser (for 1.12.1 and above)
 The config option ```zen.workspaces.show-workspace-indicator``` was removed in 1.12.1t. 
 
 I'm adding it back. 
+
+
+# Important Note!
+
+Don't use this current code, it's *awful* and the finished version will be merged into the SuperPins mod.
